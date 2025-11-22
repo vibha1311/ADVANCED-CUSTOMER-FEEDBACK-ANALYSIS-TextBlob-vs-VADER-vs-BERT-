@@ -2,7 +2,17 @@
 
 ## Project Overview
 
-This project performs **advanced sentiment analysis** on customer feedback to extract insights from reviews and help businesses improve products, services, and customer experience. The project compares the performance of **TextBlob**, **VADER**, and **BERT (RoBERTa-base)** models on a mobile phone review dataset (`redmi6.csv`).
+This project performs **advanced sentiment analysis** on customer feedback to extract insights from reviews and help businesses improve products, services, and overall customer experience. The project compares the performance of **TextBlob**, **VADER**, and **BERT (RoBERTa-base)** models on a mobile phone review dataset (`redmi6.csv`).
+
+---
+
+## Dataset Source
+
+The dataset used for this project is publicly available on **Kaggle**:
+
+- **Title:** Customer Review Dataset  
+- **Link:** [https://www.kaggle.com/datasets/parve05/customer-review-dataset](https://www.kaggle.com/datasets/parve05/customer-review-dataset)  
+- **Description:** Contains customer reviews, ratings, and other metadata, which serves as the input for sentiment analysis.
 
 ---
 
